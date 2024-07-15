@@ -1,7 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Passion+One:wght@400;700;900&display=swap");
+
+:root {
+    --bg-color-light: #cbd5e1;
+    --sky-900: #0c4a6e;
+}
+
+body {
+    background-color: var(--bg-color-light);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h5 {
+    font-family: "Passion One", sans-serif;
+}
+
 .navbar-toggler {
-  border-radius: 0;
+    border-radius: 0;
 }
 
 .card {
-  border-radius: 0;
+    border-radius: 0;
 }
